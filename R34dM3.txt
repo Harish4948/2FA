@@ -1,0 +1,8 @@
+﻿                                        Prerequisites
+
+1.Create a database login for storing login credentials on mysql server.
+      Create a table user with two columns username and password
+      Create a test user by inserting into the corresponding columns
+2.Run the program create_dataset.py to create datasets i.e it captures the images of the person.
+     This is done for facial recognition.
+
