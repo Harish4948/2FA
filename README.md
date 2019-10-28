@@ -10,3 +10,5 @@ A GUI application build using Tkinter for student management.
 Implemented 2FA using a password string and Facial detection(Haar Cascade algorithm) using Opencv
 After login CRUD operations can be done from/to sql database using Pymysql.
 
+**USAGE:**
+Read R34dM3.txt
