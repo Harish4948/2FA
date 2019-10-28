@@ -1,4 +1,4 @@
-#2FA
+# 2FA
 
 **Language:Python3**
 **Modules: OpenCv,Tkinter,Pymysql,Pillow**
