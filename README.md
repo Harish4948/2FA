@@ -7,7 +7,7 @@
 A GUI application build using Tkinter for student management.
 Implemented 2FA using a password string and Facial detection using Opencv
 
-### Setuup
+### Setup
 
 1.Create a database login for storing login credentials on mysql server.
       Create a table user with two columns username and password
